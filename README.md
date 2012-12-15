@@ -54,3 +54,17 @@ public class TempMakerDemo {
     }
 }
 ```
+
+Download
+--------
+
+Temp-maker is available from Maven Central.
+The latest version is 1.0.
+
+```xml
+<dependency>
+  <groupId>org.codeswarm</groupId>
+  <artifactId>temp-maker</artifactId>
+  <version>1.0</version>
+</dependency>
+```
